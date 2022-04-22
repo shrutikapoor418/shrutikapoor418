@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 🔭 I’m currently working on ...web development
 # 🌱 I’m currently learning ...ethical hacking
 # 👯 I’m looking to collaborate on ...web dev
