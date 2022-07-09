@@ -6,5 +6,6 @@
 # 📫 How to reach me:shrutikapoor418@gmail.com
 # 😄 Pronouns:she/her
 # ⚡ Fun fact:have interest in everything, this makes me confused 😧
+ [Linkedin](https://www.linkedin.com/in/shruti-kapoor-b9b0b617a/)
 [![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=shrutikapoor418&count_public=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/shrutikapoor418/github-readme-stats)
 
