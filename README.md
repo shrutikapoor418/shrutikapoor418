@@ -9,4 +9,4 @@
  [Linkedin](https://www.linkedin.com/in/shruti-kapoor-b9b0b617a/)
  
  
-[![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrutikapoor418)](https://github.com/shrutikapoor418/github-readme-stats)
+[![Shrutis github stats](https://github-readme-stats.vercel.app/api?username=shrutikapoor418&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/shrutikapoor418/github-readme-stats)
