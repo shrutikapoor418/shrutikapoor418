@@ -8,10 +8,17 @@
   <a href="https://www.linkedin.com/in/shruti-kapoor-b9b0b617a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shrutikapoor418@gmail.com">
+  <a href="mailto:shrutikapoorcyber@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://topmate.io/shruti_kapoor">
+    <img src="https://img.shields.io/badge/Book%20a%20Meeting-1A73E8?style=for-the-badge&logo=googlemeet&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=shrutikapoor418&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  💼 Entrepreneur &nbsp;|&nbsp; 🛡️ Offensive Security Consultant, London &nbsp;|&nbsp; 📅 <a href="https://topmate.io/shruti_kapoor">Book a session with me</a>
 </p>
 
 ---
@@ -23,8 +30,11 @@
 🌱 Currently Learning:   Ethical Hacking & Python
 👯 Looking to Collaborate On: Web Dev projects
 🤔 Looking for Help With: Bug Bounty Hunting
-💬 Ask Me About: Cybersecurity, Networking, Web Development
-📫 Reach Me At: shrutikapoor418@gmail.com
+💬 Ask Me About: Cybersecurity, Application Security, Incident Response, Networking, Web Development
+📫 Reach Me At: shrutikapoorcyber@gmail.com
+📅 Book a Meeting: https://topmate.io/shruti_kapoor
+💼 Role: Offensive Security Consultant, based in London
+🚀 Also: Entrepreneur — building cybersecurity products on the side
 😄 Pronouns: She/Her
 ⚡ Fun Fact: Interested in EVERYTHING — which makes me deliciously confused 😧
 ```
