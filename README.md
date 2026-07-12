@@ -50,16 +50,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrutikapoor418&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutikapoor418&layout=compact&theme=synthwave&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrutikapoor418&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutikapoor418&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutikapoor418&theme=synthwave&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrutikapoor418&theme=synthwave&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutikapoor418&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -67,15 +63,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrutikapoor418&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 🔐 Fun Terminal Widget
-
-<p align="center">
-  <img src="https://readme-terminal-criptonics.vercel.app/api?username=shrutikapoor418&hideRepo=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shrutikapoor418&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
